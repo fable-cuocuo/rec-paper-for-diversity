@@ -1,0 +1,10 @@
+19-CIKM-Multi-Interest Network with Dynamic Routing for(MIND)
+20-CIKM-Improving End-to-End Sequential Recommendations(IIM)
+20-KDD-ComiRec
+21-TOIS-Multi-interest Diversification for End-to-end(MDSR)
+23-ICLR-EVERYONE’S PREFERENCE CHANGES DIFFERENTLY(MIP)
+23-RecSys-Rethinking Multi-Interest Learning for Candidate Matching in(REMI)
+24-KDD-Disentangled Multi-interest Representation Learning for(DisMir)
+24-KDD-Trinity Syncretizing Multi-Long-tailLong-term Interests All in(Trinity)
+24-MM-Diversity Matters User-Centric Multi-Interest Learning for(CoMoRec)
+25-TOIS-HORAE- Temporal Multi-Interest Pre-training for Sequential  Recommendation(HORAE)
